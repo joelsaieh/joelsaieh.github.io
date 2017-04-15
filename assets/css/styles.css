@@ -1,0 +1,134 @@
+#welcome {
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/handplants.jpg) no-repeat;
+  background-size:cover;
+  max-height:100%;
+  max-width:100%;
+}
+
+#second {
+  text-align:center;
+  padding:8px;
+  background:Black;
+  background-size:cover;
+}
+
+#welcome .jumbotron {
+  background-color:rgba(255, 255, 255, -0.6);
+  border-radius:20px;
+  padding:40px;
+  max-width:800px;
+  margin:auto;
+  padding-top:117px;
+}
+
+#Logo1 {
+  max-height:400px;
+  max-width:100%;
+}
+
+#minilogo {
+  display:inline-flex;
+}
+
+#pjoin {
+  font-size:23px;
+  color:white;
+  text-align:center;
+  padding-bottom:108px;
+  padding-top:26px;
+  font-family:'Montserrat Alternates';
+}
+
+#What {
+  font-family:"Permanent Marker";
+  text-align:center;
+  padding-bottom:45px;
+  padding-top:68px;
+}
+
+.bgimg-1 {
+  background-image:url(../../assets/img/LiquidForce.jpg);
+}
+
+#about {
+  font-family:"Permanent Marker";
+  text-align:center;
+  padding-bottom:36px;
+  padding-top:30px;
+}
+
+#services {
+  font-family:"Permanent Marker";
+  text-align:center;
+  padding-bottom:45px;
+  padding-top:38px;
+}
+
+#about-p {
+  text-align:center;
+  font-size:23px;
+  color:white;
+  padding-bottom:46px;
+  font-family:'Montserrat Alternates';
+}
+
+.site.section {
+  padding:60px 0;
+}
+
+#i-accommodation {
+  font-size:60px;
+  color:white;
+  margin-left:140px;
+  padding-bottom:5px;
+}
+
+#i-rentals {
+  font-size:60px;
+  color:white;
+  margin-left:149px;
+  padding-bottom:5px;
+}
+
+#i-lessons {
+  font-size:47px;
+  color:white;
+  margin-left:166px;
+  padding-bottom:5px;
+}
+
+#h1-accommodation {
+  font-family:'Permanent Marker';
+  font-size:42px;
+  padding-bottom:29px;
+  margin-left:20px;
+}
+
+#h1-lessons {
+  font-family:'Permanent Marker';
+  font-size:42px;
+  padding-bottom:29px;
+}
+
+#h1-rentals {
+  font-family:'Permanent Marker';
+  font-size:42px;
+  padding-bottom:29px;
+}
+
+#p-accommodation {
+  color:white;
+  font-size:23px;
+  font-family:'Montserrat Alternates';
+}
+
+#symbol {
+  border-radius:50px;
+}
+
+#body {
+  background-color:black;
+}
+
