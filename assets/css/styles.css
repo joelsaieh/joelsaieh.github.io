@@ -1,134 +1,123 @@
 #welcome {
   text-align:center;
   padding:40px;
-  background:url(../../assets/img/handplants.jpg) no-repeat;
   background-size:cover;
-  max-height:100%;
-  max-width:100%;
 }
 
-#second {
+
+#series-banner {
   text-align:center;
-  padding:8px;
-  background:Black;
+  padding:40px;
   background-size:cover;
 }
 
-#welcome .jumbotron {
-  background-color:rgba(255, 255, 255, -0.6);
-  border-radius:20px;
+#gallery-banner {
+  text-align:center;
   padding:40px;
+  background-size:cover;
+}
+
+#videos-banner {
+  text-align:center;
+  padding:40px;
+  background-size:cover;
+}
+
+#video-elem {
+  position: relative;
+  background: no-repeat;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -100;
+  margin-bottom: 0px;
+  padding-top: 100px;
+  width: 100%;
+
+}
+
+#welcome-jumbotron {
+  background-color:rgba(255, 255, 255, 0.0);
+  padding:40px;
+  border-radius:20px;
   max-width:800px;
   margin:auto;
-  padding-top:117px;
 }
 
-#Logo1 {
-  max-height:400px;
-  max-width:100%;
+#welcome-jumbotronimg {
+  background-color:rgba(255, 255, 255, 0.0);
+  border-radius:20px;
+  max-width:800px;
+  margin:auto;
 }
 
-#minilogo {
-  display:inline-flex;
+#jumbo-vid {
+  padding: 450px;
+  background-color:rgba(255, 255, 255, 0.0);
 }
 
-#pjoin {
-  font-size:23px;
-  color:white;
+#logo2 {
+  height:40px;
+}
+
+#philosophy {
   text-align:center;
-  padding-bottom:108px;
-  padding-top:26px;
-  font-family:'Montserrat Alternates';
+  padding:50px;
+
 }
 
-#What {
-  font-family:"Permanent Marker";
-  text-align:center;
-  padding-bottom:45px;
-  padding-top:68px;
+#philosophy-h1 {
+  padding-bottom: 30px;
+
 }
 
-.bgimg-1 {
-  background-image:url(../../assets/img/LiquidForce.jpg);
+#series-h1 {
+  color:rgb(248,247,247);
 }
 
-#about {
-  font-family:"Permanent Marker";
-  text-align:center;
-  padding-bottom:36px;
+#gallery {
+  padding:60px;
+}
+
+#logo4 {
+  height:140px;
+}
+
+#sponsors {
+  margin-top:43px;
+  margin-bottom:40px;
+}
+
+#nascarlogo {
+  padding-top:20px;
+  margin-left:36px;
+}
+
+#bridgestone-logo {
+  height:184px;
+  padding-top:33px;
+  margin-left:30px;
+  margin-top:-10px;
+}
+
+#gp3r {
+  margin-top:49px;
+}
+
+#contact-row {
   padding-top:30px;
 }
 
-#services {
-  font-family:"Permanent Marker";
+#dqv {
   text-align:center;
-  padding-bottom:45px;
-  padding-top:38px;
 }
 
-#about-p {
-  text-align:center;
-  font-size:23px;
-  color:white;
-  padding-bottom:46px;
-  font-family:'Montserrat Alternates';
+#video-row {
+  padding:50px;
 }
 
-.site.section {
-  padding:60px 0;
+#video-container {
+  padding:65px;
 }
-
-#i-accommodation {
-  font-size:60px;
-  color:white;
-  margin-left:140px;
-  padding-bottom:5px;
-}
-
-#i-rentals {
-  font-size:60px;
-  color:white;
-  margin-left:149px;
-  padding-bottom:5px;
-}
-
-#i-lessons {
-  font-size:47px;
-  color:white;
-  margin-left:166px;
-  padding-bottom:5px;
-}
-
-#h1-accommodation {
-  font-family:'Permanent Marker';
-  font-size:42px;
-  padding-bottom:29px;
-  margin-left:20px;
-}
-
-#h1-lessons {
-  font-family:'Permanent Marker';
-  font-size:42px;
-  padding-bottom:29px;
-}
-
-#h1-rentals {
-  font-family:'Permanent Marker';
-  font-size:42px;
-  padding-bottom:29px;
-}
-
-#p-accommodation {
-  color:white;
-  font-size:23px;
-  font-family:'Montserrat Alternates';
-}
-
-#symbol {
-  border-radius:50px;
-}
-
-#body {
-  background-color:black;
-}
-
